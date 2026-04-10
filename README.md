@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on strengthening my fundamentals in C, Python, and Data Structures  <br><br>👯 I’m looking to collaborate on beginner-friendly open-source projects and problem-solving repositories  <br><br>🤝 I’m looking for help with improving DSA concepts and writing cleaner, more efficient code  <br><br>🌱 I’m currently learning C, Python, Data Structures & Algorithms, and core Computer Science subjects  <br><br>💬 Ask me about C programming basics, logic building, and CS fundamentals  <br><br>⚡ Fun fact: I do my best learning during late-night coding and gaming sessions<br>
+Working with Reinforcement Learning || Building Systems in Java || Experienced in Python / Flask || CSE ’2028 IIE | DEE ’2023 RGP || Exploring Programming and Problem Solving || Web Development
 
 
 ## 🌐 Socials:
