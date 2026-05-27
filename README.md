@@ -7,8 +7,8 @@ Working with Reinforcement Learning || Building Systems in Java || Experienced i
 
 ## 🏅 Verified Achievements & Badges:
 <p align="left">
-  <img src="https://github.com/nisalgunawardhana/api-learning-101/assets/69124445/8f521f72-7df8-4e8c-be23-5e93df158145" width="120" alt="Submission Approved Badge" />
-  <img src="https://github.com/nisalgunawardhana/api-learning-101/assets/69124445/d5b7a1f5-b778-4a6c-94df-d13c9fb60971" width="120" alt="API Learning 101 Completion Badge" />
+  <img src="https://img.shields.io/badge/Submission-Approved-%2342ba96?style=for-the-badge&logo=github" alt="Submission Approved" />
+  <img src="https://img.shields.io/badge/API_Learning_101-Completed-%23007acc?style=for-the-badge&logo=postman&logoColor=white" alt="API Learning 101 Completed" />
 </p>
 
 ### API Learning 101 Challenge
