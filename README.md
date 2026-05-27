@@ -5,6 +5,19 @@ Working with Reinforcement Learning || Building Systems in Java || Experienced i
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Manidwiptam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@manidwiptam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@manidwiptam_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@manidwiptam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manidwiptamhalder@gmail.com) 
 
+## 🏅 Verified Achievements & Badges:
+<p align="left">
+  <img src="https://github.com/nisalgunawardhana/api-learning-101/assets/69124445/8f521f72-7df8-4e8c-be23-5e93df158145" width="120" alt="Submission Approved Badge" />
+  <img src="https://github.com/nisalgunawardhana/api-learning-101/assets/69124445/d5b7a1f5-b778-4a6c-94df-d13c9fb60971" width="120" alt="API Learning 101 Completion Badge" />
+</p>
+
+### API Learning 101 Challenge
+* **Status:** Verified & Approved By Instructor 🎉
+* **Official Proof:** [View Approved Submission (Issue #533)](https://github.com/nisalgunawardhana/api-learning-101/issues/533#issuecomment-4558283293)
+* **Core Skills Displayed:** Postman API Workflows, REST API Testing, CRUD Lifecycle Validation, GitHub Open-Source Collaboration.
+
+---
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
@@ -23,5 +36,3 @@ Working with Reinforcement Learning || Building Systems in Java || Experienced i
 
 ---
 [![](https://komarev.com/ghpvc/?username=Manidwiptam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
