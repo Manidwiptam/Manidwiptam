@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working with Reinforcement Learning || Building Systems in Java || Experienced in Python / Flask || CSE ’2028 IIE | DEE ’2023 RGP || Exploring Programming and Problem Solving || Web Development
+Software Developer | Python & C | Flask, NumPy, PyTorch | Docker & Git | Exploring Full-Stack | Open Source Contributor | GeeksforGeeks Campus Representative
 
 
 ## 🌐 Socials:
