@@ -29,7 +29,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Software Developer | Python & C | Flask, NumPy, PyTorch | Docker & Git | Exploring Full-Stack | Open Source Contributor | GeeksforGeeks Campus Representative</h4>
+<h4 data-importer="text" align="left">Software Developer | Python & C | Web Dev | Flask, NumPy, PyTorch | Docker & Git | Open Source Contributor | GeeksforGeeks Campus Representative</h4>
 
 ###
 
